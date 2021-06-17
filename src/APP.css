@@ -1,0 +1,18 @@
+
+*:not(button,label){
+    text-align: center ;
+    background-color:grey;
+}
+div{
+    color:purple;
+}
+h3{
+    font-size: 50px;
+}
+form{
+    font-size:30px ;
+    margin-bottom: 30px;
+}
+form>input {
+    background-color: white;
+}
